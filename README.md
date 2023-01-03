@@ -7,5 +7,6 @@ I'm a little software engineer in Turkey
 
 💞️ I’m currently working on front-end technologies.
 
-
+Frontend Technologies
+HTML5 logo CSS3 logo Bootstrap logo JavaScript logo ES6 logo
 
