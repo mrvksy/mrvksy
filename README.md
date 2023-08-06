@@ -8,7 +8,7 @@
 
 👀 I’m interested in Javascript,web3.
 
-🌱 I’m currently learning Front-end technologies.
+🌱 I’m currently working Front-end technologies.
 ###
 <h1>I code with ; </h1>
 <div align="left">
