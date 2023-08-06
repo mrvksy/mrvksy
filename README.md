@@ -2,11 +2,11 @@
  
 ###
 
-<p align="left">I graduated from Computer Engineering department. In my work, I have experience Javascript, Angular, React, Java, Oracle, Pl/SQL, Selenium, Git, Jenkins, CSS, Bootstrap technologies.<br><br>Throughout my career,I have success-driven work style and continuously strive to improve myself.</p>
+<p align="left">I graduated from Computer Engineering department. In my work, I have experience Javascript, Angular, React, Java, Oracle, Pl/SQL, Selenium, CSS, Bootstrap technologies. I'm working in a company as an software engineer. I'm addicted to learning and developing myself.I'm trying to growing every day<br><br>I like reading books with coffee in my spare time</p>
 
 
 
-👀 I’m interested in Javascript
+👀 I’m interested in Javascript,web3.
 
 🌱 I’m currently learning Front-end technologies.
 ###
