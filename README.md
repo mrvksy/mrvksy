@@ -2,7 +2,7 @@
  
 ###
 
-<p align="left">I graduated from Computer Engineering department. In my work, I have experience Javascript, Angular, React, Java, Oracle, Pl/SQL, Selenium, CSS, Bootstrap technologies. I'm working in a company as an software engineer. I'm addicted to learning and developing myself.I'm trying to growing every day.<br>I like reading books with coffee in my spare time :coffee: </p>
+<p align="left">I graduated from Computer Engineering department. In my work, I have experience Javascript, Angular, React, Java, Oracle, Pl/SQL, Selenium, CSS, Bootstrap technologies. I'm working in a company as an software engineer. I'm addicted to learning and developing myself.I'm trying to growing every day. :blossom: <br>I like reading books with coffee in my spare time :coffee: </p>
 
 
 
