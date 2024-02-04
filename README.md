@@ -6,9 +6,9 @@
 
 
 
-👀 I’m interested in Javascript,web3.
+👀 I’m interested in web technologies.
 
-:woman_technologist: I’m currently working Front-end technologies.
+:woman_technologist: I’m currently working front-end technologies.
 ###
 <h1>I code with ; </h1>
 <div align="left">
