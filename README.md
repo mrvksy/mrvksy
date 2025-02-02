@@ -6,7 +6,7 @@
 
 
 
-👀 I’m interested in web technologies.
+👀 I’m interested in Test Automation and DevOps.
 
 :woman_technologist: I’m currently working front-end technologies.
 ###
