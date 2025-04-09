@@ -8,7 +8,6 @@
 
 👀 I’m interested in Test Automation and DevOps.
 
-:woman_technologist: I’m currently working front-end technologies.
 ###
 <h1>I code with ; </h1>
 <div align="left">
