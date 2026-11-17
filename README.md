@@ -1,10 +1,5 @@
 <h1 align="center">Hi there! I'm Merve 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/mrvksy"><img src="https://img.shields.io/badge/GitHub-mrvksy-blue?style=flat&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/mrvksy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-</p>
-
 ---
 
 <p align="left">
@@ -30,7 +25,7 @@ My core focus is on building sustainable systems that integrate solid testing me
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Selenium" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=appium" height="40" alt="Appium" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" height="40" alt="Appium" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" />
 </div>
