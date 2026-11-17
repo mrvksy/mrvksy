@@ -25,7 +25,5 @@ My core focus is on building sustainable systems that integrate solid testing me
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Selenium" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" height="40" alt="Appium" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" />
 </div>
